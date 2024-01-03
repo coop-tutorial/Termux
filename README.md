@@ -10,7 +10,7 @@ termux-change-repo
 ### Instalamos la herramienta
 
 ```bash
-android-tools
+pkg install android-tools
 ```
 __________________________________________________________________________________________
 * ahora procederemos a activar opciones de desarrollador en nuestro sistema android en ajustes 
