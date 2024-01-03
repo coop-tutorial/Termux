@@ -43,7 +43,7 @@ ________________________________________________________________________________
 ![image](https://cdn.discordapp.com/attachments/1120450661050499083/1192240936957259826/Picsart_24-01-03_14-59-30-188.jpg?ex=65a85be6&is=6595e6e6&hm=e396eecb04be1deffbe401497bd995dbee67b30ba1ce2f28f06e25aadc66cdf6&)
 ________________________________________________________________________________________________________
 
-una vez inresado esto ahora deberemos poner
+una vez ingresado esto ahora deberemos poner
 
 ```
 adb connect
