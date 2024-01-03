@@ -24,7 +24,7 @@ ________________________________________________________________________________
 ### Activar Depuracion inalambrica 
 * Deberemos dividir la pantalla en 2 para tener ajustes y termux en la misma pantalla para realizar
 la conexion local...
-lo comectaremos mediante codigo de vinculación
+lo conectaremos mediante codigo de vinculación
 con el sigiente comando
 
 ```bash
