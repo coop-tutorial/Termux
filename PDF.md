@@ -1,4 +1,4 @@
-Entendido. En este caso, dado que no parece haber un paquete específico de `poppler-utils`, la herramienta `pdftoppm` puede estar incluida dentro de la instalación del paquete `poppler`. Puedes probar el siguiente comando para convertir un archivo PDF a imágenes:
+Dado que no parece haber un paquete específico de `poppler-utils`, la herramienta `pdftoppm` puede estar incluida dentro de la instalación del paquete `poppler`. Puedes probar el siguiente comando para convertir un archivo PDF a imágenes:
 
 ```
 pdftoppm nombre_del_archivo.pdf prefijo_imagen -png
